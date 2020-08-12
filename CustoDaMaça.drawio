@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T00:39:23.154Z" agent="5.0 (Windows)" etag="EI9DJzS4tiYkJdBD5qPz" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-12T00:41:21.303Z" agent="5.0 (Windows)" etag="hc6TvvRwvLC_ozsNZjlm" version="13.6.2" type="github">
   <diagram id="mWcdnm1O7wJLM2R8wqJ9" name="Page-1">
     <mxGraphModel dx="1102" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,8 @@
         <mxCell id="8d-aJYdHGcwId2bcx3M5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d-aJYdHGcwId2bcx3M5-10" target="8d-aJYdHGcwId2bcx3M5-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8d-aJYdHGcwId2bcx3M5-10" value="quantidadeCompra = 12" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="630" width="170" height="80" as="geometry" />
+        <mxCell id="8d-aJYdHGcwId2bcx3M5-10" value="quantidadeCompra&amp;nbsp; &amp;gt;= 12" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="640" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8d-aJYdHGcwId2bcx3M5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d-aJYdHGcwId2bcx3M5-12" target="8d-aJYdHGcwId2bcx3M5-14">
           <mxGeometry relative="1" as="geometry" />
